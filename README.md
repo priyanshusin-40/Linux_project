@@ -1,7 +1,7 @@
 # Open Source Audit - Git
 
-**Student Name:** Ankshit  
-**Registration Number:** 24BCE10454 
+**Student Name:** Priyanshu Kumar 
+**Registration Number:** 24BCE10347
 **Course:** Open Source Software  
 **Software Chosen:** Git  
 
